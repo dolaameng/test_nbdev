@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://dolaameng.github.io/test_nbdev"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/dolaameng/test_nbdev"
